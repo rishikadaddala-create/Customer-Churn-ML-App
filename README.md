@@ -32,4 +32,4 @@ Or simply use the [Live Demo](https://customer-churn-ml-app-eg5pothtm8vstixmtjpt
 - User-friendly Streamlit interface
 
 ## 👩‍💻 Author
-Niharika Idamakanti
+Rishika Daddala
